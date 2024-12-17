@@ -1,6 +1,3 @@
 get the user data...# the user added
 process the data
-
-create an avatar for user
-
 login and logout
